@@ -1,0 +1,5 @@
+{
+    "prasen": {"AAPL": {"quantity": 10, "price": 150}},
+    "aayush": {"GOOG": {"quantity": 8, "price": 100}},
+    "aditya": {"AMZN": {"quantity": 4, "price": 250}}
+}

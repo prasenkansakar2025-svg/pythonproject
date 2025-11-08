@@ -1,0 +1,6 @@
+{
+    "admin": {"password": "admin123", "role": "admin"},
+    "prasen": {"password": "1234", "role": "client"},
+    "aayush": {"password": "abcd", "role": "client"},
+    "aditya": {"password": "xyz", "role": "client"}
+}
